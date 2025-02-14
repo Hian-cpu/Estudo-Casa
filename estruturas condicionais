@@ -1,0 +1,22 @@
+import os
+
+os.system("clear") #Limpa de terminal.
+
+#solicitando dados (entrada)
+#Tipagem dinamica.
+#Quando a linguagem identifica tipos de dados.
+
+nome=caracter(input("Digite seu nome:"))
+primeira_nota=real(input("Digite a sua primeira nota:"))
+segunda_nota=real(input("Digite a sua segunda nota:"))
+
+ #verificando (processamento)
+
+if valor>7
+print("APROVADO!")
+#else:
+print("REPROVADO!")
+
+
+#EXIBINDO DADOS (SAIDA)
+
